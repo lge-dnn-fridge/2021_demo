@@ -3,6 +3,6 @@
   "description": "Fridge Food List!",
   "foodlist": [
     { "deviceid": "fridge1", "foodId": "1", "foodName": "apple", "foodLocation": "R_S_TL" },
-    { "deviceid": "fridge1", "foodId": "1", "foodName": "orange", "foodLocation": "R_S_ML" }
+    { "deviceid": "fridge1", "foodId": "2", "foodName": "orange", "foodLocation": "R_S_ML" }
   ]
 }
