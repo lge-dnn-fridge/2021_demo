@@ -3,7 +3,7 @@
     "session_id": "22345678901234567890123456789012",
     "timestamp": "20210111_011154",
     "modelver": 0.1,
-    items: [
+    "items": [
       {
         "user_prd_id": "1000000",
         "user_text": "my_bottle_from_github",
