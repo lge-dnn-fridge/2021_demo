@@ -6,7 +6,7 @@
     "items": [
       {
         "user_prd_id": "1000000",
-        "user_text": "my_bottle_from_github_mdf",
+        "user_text": "생수(github)",
         "icon_index": "0",
         "updated": "20210111_012340"
       },
@@ -18,7 +18,7 @@
       },
       {
         "user_prd_id": "1000002",
-        "user_text": "my_apple",
+        "user_text": "사과",
         "icon_index": "2",
         "updated": "20210223_072502"
       },
