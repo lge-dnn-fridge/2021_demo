@@ -1,0 +1,151 @@
+{
+    "type": "FOOD_DETECTION",
+    "result": {
+        "fridge_id": "xxxxxxxxxxyyyyyyyyyyyzzzzzzzzzzbbf",
+        "session_id": "22345678901234567890123456789013",
+        "timestamp": "20210810_160818",
+        "modelver": 0.1,
+        "left_drawer": {
+            "items": [
+                {
+                    "class": "Fruit",
+                    "foodname_eng": "r003",
+                    "foodname_kor": "r003",
+                    "user_prd_id": "1000005",
+                    "category_code": "A0101",
+                    "icon_index": 10,
+                    "pos": [
+                        194,
+                        106,
+                        263,
+                        175
+                    ],
+                    "score": 0.992,
+                    "item_id": "l000"
+                },
+                {
+                    "class": "Vegetable",
+                    "foodname_eng": "Tomato",
+                    "foodname_kor": "토마토",
+                    "category_code": "A0104",
+                    "pos": [
+                        136,
+                        121,
+                        198,
+                        186
+                    ],
+                    "score": 0.996,
+                    "item_id": "l001"
+                },
+                {
+                    "class": "Vegetable",
+                    "foodname_eng": "r008",
+                    "foodname_kor": "r008",
+                    "user_prd_id": "1000014",
+                    "category_code": "A0305",
+                    "icon_index": 10,
+                    "pos": [
+                        198,
+                        42,
+                        310,
+                        93
+                    ],
+                    "score": 0.939,
+                    "item_id": "l002"
+                },
+                {
+                    "class": "Vegetable",
+                    "foodname_eng": "Carrot",
+                    "foodname_kor": "당근",
+                    "category_code": "A0305",
+                    "pos": [
+                        269,
+                        24,
+                        351,
+                        93
+                    ],
+                    "score": 0.91,
+                    "item_id": "l003"
+                },
+                {
+                    "class": "Fruit",
+                    "foodname_eng": "Persimmon",
+                    "foodname_kor": "감",
+                    "category_code": "A0101",
+                    "pos": [
+                        319,
+                        106,
+                        388,
+                        175
+                    ],
+                    "score": 0.793,
+                    "item_id": "l004"
+                },
+                {
+                    "class": "Vegetable",
+                    "foodname_eng": "Tomato",
+                    "foodname_kor": "토마토",
+                    "category_code": "A0104",
+                    "pos": [
+                        128,
+                        51,
+                        186,
+                        109
+                    ],
+                    "score": 0.563,
+                    "item_id": "l005"
+                }
+            ],
+            "quantity": 6
+        },
+        "right_drawer": {
+            "items": [
+                {
+                    "class": "Vegetable",
+                    "foodname_eng": "Zucchini",
+                    "foodname_kor": "애호박",
+                    "category_code": "A0302",
+                    "pos": [
+                        52,
+                        26,
+                        172,
+                        184
+                    ],
+                    "score": 0.951,
+                    "item_id": "r000"
+                },
+                {
+                    "class": "Vegetable",
+                    "foodname_eng": "Zucchini",
+                    "foodname_kor": "애호박",
+                    "category_code": "A0302",
+                    "pos": [
+                        114,
+                        30,
+                        235,
+                        183
+                    ],
+                    "score": 0.941,
+                    "item_id": "r001"
+                },
+                {
+                    "class": "Vegetable",
+                    "foodname_eng": "r007",
+                    "foodname_kor": "r007",
+                    "user_prd_id": "1000012",
+                    "category_code": "A0308",
+                    "icon_index": 10,
+                    "pos": [
+                        185,
+                        58,
+                        318,
+                        186
+                    ],
+                    "score": 0.95,
+                    "item_id": "r002"
+                }
+            ],
+            "quantity": 3
+        }
+    }
+}
